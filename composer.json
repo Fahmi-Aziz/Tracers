@@ -1,0 +1,7 @@
+{
+    "require": {
+        "league/csv": "^9.8",
+        "phpoffice/phpspreadsheet": "^1.28",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
